@@ -29,10 +29,10 @@ Para clonar e executar a aplicação é necessário [Git](https://git-scm.com) e
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/pedro-lisboa/Next-Level-Week-2020.git
+$ git clone https://github.com/pedro-lisboa/Next-Level-Week-2-Proffy.git
 
 # Entre no repositório
-$ cd next-level-week-1
+$ cd next-level-week-2-Proffy
 
 # Instale as dependências dentro do diretório server
 $ cd backend
